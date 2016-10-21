@@ -50,7 +50,7 @@ See: [Acrolinx Sidebar .NET](https://github.com/acrolinx/acrolinx-sidebar-demo-d
 
 To run the [Sidebar](https://github.com/acrolinx/acrolinx-sidebar-demo) using your favorite coding language, you just need to load the sidebar in a web browser control and interact with the JavaScript inside.
 
-Before you start building a new Acrolinx SDK on your own, contact [Acrolinx SDK support](sdk-support@acrolinx.com). Chances are we're working on a sidebar SDK in the language you want to use...
+Before you start building a new Acrolinx SDK on your own, contact Acrolinx SDK support (sdk-support@acrolinx.com). Chances are we're working on a sidebar SDK in the language you want to use...
 
 ### Develop a backend service integration
 
