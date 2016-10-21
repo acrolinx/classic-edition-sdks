@@ -1,6 +1,6 @@
 # Acrolinx Classic Edition SDKs
 
-This document contains instructions and sample code to help developers integrate [Acrolinx](http://www.acrolinx.com/) in Java, .NET, or C++ applications. The SDKs take care of most of the functionality for you so you can develop integrations quickly.
+The following instructions and sample code will help you integrate [Acrolinx](http://www.acrolinx.com/) in Java, .NET, or C++ applications. The SDKs take care of most of the functionality for you so you can develop integrations quickly.
 
 ## Automated or Authoring Integration
 
