@@ -32,7 +32,7 @@ Please contact Acrolinx SDK support (sdk-support@acrolinx.com) for consulting an
 ## Before you start
 
 Check out our [Guidance for the Development of Acrolinx Integrations](https://github.com/acrolinx/acrolinx-coding-guidance).
-Not all points might make sense your current project, or your company might have its own rules for writing code.
+Not all points might make sense for your current project, or your company might have its own rules for writing code.
 This document is designed to help you avoid common pitfalls when you develop an Acrolinx integration.
 
 ## Recommendations
