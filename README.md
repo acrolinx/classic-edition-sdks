@@ -65,8 +65,8 @@ The Acrolinx Java SDK is another option for using Acrolinx in a backend integrat
 
 ## Acrolinx Java SDK
 
-### [Getting Started with Acrolinx Java SDK Snippets](https://cdn.rawgit.com/acrolinx/classic-edition-sdks/master/java-sdk/html/snippets.html)
-### [JavaDoc of Acrolinx JavaSDK](https://cdn.rawgit.com/acrolinx/classic-edition-sdks/master/java-sdk/html/apidocs/index.html)
+### [Getting Started with Acrolinx Java SDK Snippets](https://cdn.rawgit.com/acrolinx/classic-edition-sdks/5750a55d31d0d5fe267e75c768660f5f7d42c606/java-sdk/html/snippets.html)
+### [JavaDoc of Acrolinx JavaSDK](https://cdn.rawgit.com/acrolinx/classic-edition-sdks/5750a55d31d0d5fe267e75c768660f5f7d42c606/java-sdk/html/apidocs/index.html)
 
 
 ### The Acrolinx Java SDK in action - Starting the Demo Client
