@@ -1,0 +1,882 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespaces"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace List"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GlobalHeapAllocator"><param name="Local" value="class_acro_s_d_k_1_1_global_heap_allocator.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroAllocator"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAppInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAppSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroDocSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CProgressDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroRangeKeySet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroRangeHandler"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroCheckResult2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroBatchCheckHandler2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroEventHandler2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrBuf"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrSet"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CError"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAttributeSet"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContext"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CBaseBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CNullBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CTextDoc"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CStandardCommonResource"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContextMenuEntry"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContextMenuEntryList"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWString"><param name="Local" value="namespace_acro_s_d_k.html#a77ca82a4191c570998881820c952f2e8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrVec"><param name="Local" value="namespace_acro_s_d_k.html#a993025911b29db3cd2f6704b3446bd09"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrVecPos"><param name="Local" value="namespace_acro_s_d_k.html#ab5d10aa6a1bc223a30e29099ed142144"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TAcroRangeKey"><param name="Local" value="namespace_acro_s_d_k.html#a4248b7a7f1d5460e95e75eb5278873d6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TErrorCode"><param name="Local" value="namespace_acro_s_d_k.html#a02b6459af3cb9cc99d2284cb6dea6e47"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TFormatKey"><param name="Local" value="namespace_acro_s_d_k.html#a8dda8d5ae45433a761b28178d3320586"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TGuiElementSet"><param name="Local" value="namespace_acro_s_d_k.html#af32d3d1ec65998927cdb1e9db0ebd14e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TInfoBlockKey"><param name="Local" value="namespace_acro_s_d_k.html#a56a9c0df0806afd6970924d08de1dd7b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TMenuCommandHandler"><param name="Local" value="namespace_acro_s_d_k.html#a68f9bde969a6ff95e4a9902f1c54ff64"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TOnSelectTextBlock"><param name="Local" value="namespace_acro_s_d_k.html#a1d26897b91a00f2810d45b30ee5337d3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TOnSelectTextBlockEx"><param name="Local" value="namespace_acro_s_d_k.html#acaac44ea15a556336e1560202e3b5ed4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TProgressTaskId"><param name="Local" value="namespace_acro_s_d_k.html#a3ddceb20617b6eea1f4eb033c19b202c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TTestCommandHandler"><param name="Local" value="namespace_acro_s_d_k.html#a6e89a124e29a10ddee0fb996b5309e91"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TTextBlockKey"><param name="Local" value="namespace_acro_s_d_k.html#a5fe5e8cc95d054a33bfbe4dbcbcddb1a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TTextBlockSortIndex"><param name="Local" value="namespace_acro_s_d_k.html#a6ba6ea12750fbcdd3030cfb17bbeeb22"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="eStandardCommonResources"><param name="Local" value="namespace_acro_s_d_k.html#a5fefda883a7fd8007f3f3ec02a9b0748"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TBreakLevel"><param name="Local" value="namespace_acro_s_d_k.html#a2e7d95fa5c9299cf17d20cc0702412b5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TGuiElement"><param name="Local" value="namespace_acro_s_d_k.html#a2cfda89f137771e654b64fb6ba1ab471"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TGuiModeType"><param name="Local" value="namespace_acro_s_d_k.html#af7c63ebbaf50daca1568e7d226b7a98f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TLogLevel"><param name="Local" value="namespace_acro_s_d_k.html#ab00dfca5fdaedde6ca24bb93b5cd100a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TMenuCommand"><param name="Local" value="namespace_acro_s_d_k.html#aadf2cce4072b7e8b29ee22a307679364"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TResultFlagType"><param name="Local" value="namespace_acro_s_d_k.html#ad235e8a834c2fc3a9d7c8a97f0e78156"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TSubstitutionMode"><param name="Local" value="namespace_acro_s_d_k.html#a9ca3c44eb2ef247270ac6780f1da9b23"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TTestCommand"><param name="Local" value="namespace_acro_s_d_k.html#aa2a3da8ceae36fbc07ebcfc8cea73f73"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE__DOCTYPE_NAME"><param name="Local" value="namespace_acro_s_d_k.html#a39d212e4107f73f4a19e87c55b0c3ddd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE__TEMPLATE_NAME"><param name="Local" value="namespace_acro_s_d_k.html#a6edc1b540ba58d2a98337ca3641fa259"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE_XML__PUBLIC_ID"><param name="Local" value="namespace_acro_s_d_k.html#a11afc1205592447c775a95cf141529b2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE_XML__ROOT_NAME"><param name="Local" value="namespace_acro_s_d_k.html#a7f9bbadd2c4ec806b0becbf83f443cc0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE_XML__SCHEMA_ID"><param name="Local" value="namespace_acro_s_d_k.html#af0b224ef74e1664181f34b83c398be08"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE_XML__SYSTEM_ID"><param name="Local" value="namespace_acro_s_d_k.html#a332151ea0205d6aa5cdba54168973f2d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DUMMY_FORMAT_KEY"><param name="Local" value="namespace_acro_s_d_k.html#a6a55995110dca883af05676fc02f3d52"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GUIESet_All"><param name="Local" value="namespace_acro_s_d_k.html#afde4a8eebe2f7e3f390bcc128d44ccf8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GUIESet_SilentMode"><param name="Local" value="namespace_acro_s_d_k.html#a6d653631e19b09daa855f3a5c2b1de2f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="INVALID_RANGE_KEY"><param name="Local" value="namespace_acro_s_d_k.html#a2f3410c5492032a33f84c4a274f63acf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NullBlock"><param name="Local" value="namespace_acro_s_d_k.html#a4e6b6f92f2243f7d5d236460f3a90b54"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NullContext"><param name="Local" value="namespace_acro_s_d_k.html#aa8e5a46d9572d8ef9c5568111b7fedc0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NullFormat"><param name="Local" value="namespace_acro_s_d_k.html#a005269c21cfc37f29881439e3ecb3fa7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace Members"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="namespacemembers_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Typedefs"><param name="Local" value="namespacemembers_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="namespacemembers_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerator"><param name="Local" value="namespacemembers_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::AcroAllocator< T >"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="const_pointer"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a14fa9ff5ee89c283c97222997a411f96"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="const_reference"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a41d52e07d3e4e28751fb40190f0f30b7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="difference_type"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a75bd7698e18d703607397d49eab93206"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="pointer"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#afa06c8676508fbf025cdd1b826396d39"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="reference"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#ad2d9d9a4758d4fb48944d07d55ecc937"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size_type"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#acc82fd6ccfc682ee2044eff69e5b8858"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="value_type"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#aeecdafb70bc6a1f914adc32a4a72eb00"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroAllocator"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#aeae3225ab59a8043e8d0c2e7b6913799"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroAllocator"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a37c05f998aabe55268e78ef626db06d3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~AcroAllocator"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#ad495e45153462ec89150582631033b4e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroAllocator"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#ae897e206db6dba64f3790ffe493df893"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="address"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a36a1f0f837f8bac71e389fb001985860"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="address"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a4c0222cf1d985f5d6318d25ff08f3e98"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="allocate"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#ab8b87aeba1ba5d74a6a87e2a20035ca0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="construct"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#ae8907daf26ef5f2450f7b90af50fc3f7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="deallocate"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a6709db4bbf97a47d34d60b8897aacd51"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="destroy"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#ab553504742d72cd27dd897c47c232c46"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="max_size"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a4dc59b3364720d2bf75cbcc62cf75c5a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator!="><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#a97c66965ae5e08c4191aa6f45fde9432"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator=="><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html#adc47cefe461108c97aa5c1da7eaab256"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroTypeFactory< T1, T2, T3 >"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="list"><param name="Local" value="struct_acro_type_factory.html#a47fe685b428037713bee3c545b79adb4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="map"><param name="Local" value="struct_acro_type_factory.html#a9767357b176bfcaa5fa720eea3242ee3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stack"><param name="Local" value="struct_acro_type_factory.html#a7810378096e1eda7c2944f13cefa9df1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="string"><param name="Local" value="struct_acro_type_factory.html#ad5892368937370baf7bbb57f3ea8c130"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="vector"><param name="Local" value="struct_acro_type_factory.html#a9a5172da327e46fab272c1cfeb9f6164"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroAPI2"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a385e96b797afe8b3128d25d36a9d7bef"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ac17032f3855e7a352c03a0ed94a9cae8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addToAggregation"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#aecedb44d244c3c34784bed69184d7fc6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="batchCheckText"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a3cb9383809d35fa9e922de4eab5282c3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="bringCurrentDialogToTop"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a6e5f4cfdc150af98da4b684ec86ec23f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="checkConnection"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a71915bf18d6b9bd460923b4ee8479b26"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="checkText"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a8600d6b6d14622967140a9f512bc6cf3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="checkTextAsync"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a219e6013706075231d573177fdf65195"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="commitAggregation"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a42ec8a4f927649cc0d2998be1029ddcb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="commitAndUpdateProperties"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a66a837d8dc1a9ff608f431eb1a500e65"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="fileSetCheckText"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#af0c054a5bd9b4b8aa05e8fe915becd73"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getActiveProfile"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a7134e77a9c5128c5d000d2e4099cf647"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getApiParameter"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a7eb95da0eb4c1cdf21c80b75bc3cbaa4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getGuiLanguage"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a5cdb9013db0c316353e05a5108e2418c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a98395d5ec73eb89e37878117adef8ce6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLocalizedString"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#af3a465ddc434c3b6ba16e73e0d135cc3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLocalizedString"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#af2ea1e76f8b4c5a89fdc29843d18feaf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLocalizedString"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ac857e4a18414fe54ad275e16ce98d58f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getMainClientWindow"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#acbe50778b524ee594614563a7fc9591b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getProfiles"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a6264d10ae49851d2e74a104b62c787bc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ade2c2001587c33efb1b08c5cf5691d28"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a8328dda894b27bfe9b91d72ec80cc8f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ad97a1b93a8666035ffee22cf6e0f0e25"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isGuiModeActive"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a2582af51ddfbc33b981d9bed3c7aee23"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isRuleRelevantContext"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a82448cfd593c58926cc70ea5ee03d08f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isSendAllContexts"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ad949b800f63240fd3ab8a10208673dee"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="listApiParameters"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#aa24234c08439d7c5a9a63f45ed1de04a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="listApiUnits"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a1011d9d18450e0b002895fefb365e000"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="log"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a6607315ee943ed19e3a91c001c43cd65"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="prepareCheck"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a03aa28c6250392212ea24df5ec68c854"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="reCheckText"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a65dfaec6190555f5d0f46603282a66b8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="releaseSession"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#aecf161dd3a9aa34e4f96a9d5c3f1de7a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="resetAggregation"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a612601aa32586953dc5c769649642d93"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setActiveProfile"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a76e97d0e135ad61f8533652c242179e6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setApiParameter"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ae9dec3e4156b25b1357c36a011b31e4e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGuiMode"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#aba2eb58197cc287d0a231d311e0b55f8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a857c39a8564a3e3f0aeb3426e3a7a0c9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a46513aa08c23c89815caf44aa3c48074"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a6c0e26eb8a44cd6dcef97e0b20591a60"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showAboutDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ab38d6b38bcc2b16fa6fac57ff9b21e0c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showModalMessageBox"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#afea89eda385970483ef6e57f8d64974d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showPlugInHelp"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ae678193827239769a05c0d5a6e6f888f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showSettingsDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#ae08c9f5ba0b09e4a3c9aa2cb9f3b9691"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showUrl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a509751894f5d56d2dd15963ff0b60a03"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="triggerAutomatedBatchTest"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#afdc7c687eb87ec313608fb251444db69"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroCheckResult2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html#a25d48053127d17bcc2d3ff0605556f9a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroAppInfo"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAppInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a2aae6302d1bfc4f06001e85fad724c9d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAppInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a9fd36796f6ec0783ef01809ce3080742"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroAppInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a2c674d11b06310af8415eab89d142265"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAppInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#afb79d9210d7d6dad80e9a3a3efc42db1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBuildDate"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a1ec917716029f1965521eddb6791b418"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBuildNumber"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#adecdfce6ade4da5d8a1bab46cea8a769"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getForegroundFormatFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a5fd3bf0238d1a28c06ca957abf845a96"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFriendlyName"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a8d61fc6a4b49c9d964209a3134b3634e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFriendlyName"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#aeb5d134d0fca821e14b6f0c79139d2d4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a35dc654d6feda56d2bac0ace23960926"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getIsAnonymous"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a74d71fc5e408750bf777c42293a1ef5d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getMenuCommandHandler"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#ab4ac10dfea0c2682c183b3f1cf4dd565"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getName"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a667b5dacccdd4c15054ad538564c8d69"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSignature"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#af642b46d81b2b31b4f24a9d9c5a9110f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSvnRevisionNumber"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a78d121b35a27243ab48035e1ebde964b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getTestCommandHandler"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#ac035aacecd5544c6b3841b189ab149c2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getVersion"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a4542ef3d8ff96ab8ce6e8c988db7ef4e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a5550cf13f91acfad6f2cd8466eba9fed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBuildDate"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a1fa405d107ec97ecb05c5eabe27f966a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBuildNumber"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a37ca9142689394e330d79805e424ae5b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setForegroundFormatFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a57feb1ea2e6b25691e9e1c3e11a1efc2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFriendlyName"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a4436bfeb30fdb1615f78557bd9de9fe2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setIsAnonymous"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#ac24c549371b4e1e9920ed045783796e6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setMenuCommandHandler"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a3dbf1c88407eb24cdf817c0f99cd7640"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setName"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a7c18672118228a8cff38ca51c62af857"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setSignature"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a2051faea3ba3a614168e334f092c10cc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setSvnRevisionNumber"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a2f363acde0d7ab5859d175f0b21395dc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setTestCommandHandler"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#a08ee5acdd2a389052271f525efda9383"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setVersion"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html#ab2365fb84c313cbcecfc047f7bc7868b"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroAppSetup2"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAppSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#aed1253d7bd2aaae2f317517ef0685f34"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAppSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#afad2f89553d40dac737f98e4fd2749e3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroAppSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a3ade28dede0ca6b9f3682536530c3a4a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAppSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ab5fcbeb68d6202a39f023cd8d67e973a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addCheckBox"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#af8632cd18e19a4f2e90d7f3221249fcf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addComboBox"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a549a2ddb37ccffdb7584ad73c7306833"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addEditField"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a69981a1a09dd122a2738176b8dc7766e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="containLink"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a9a96e28661c88c4b903a1fba71de3f16"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineCharacterSubstitution"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#aaaf089a6a2b5a5b11741091270d18faa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a7aac2a2084245c79e3738079f9a9acea"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ac949332cf73112294d9201c296658009"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a3eb17bb443a2bcbad6132d162294d376"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="disableGuiElements"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#afbb8483781e39334bddcb0df8a988d6b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enableAdvancedTab"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#aa0d5911d1a93ea9816a7ece208a86f4e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enabledFilterAndSegmentationColors"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#acb65f493b6194e1fb93c8d44e42b5e93"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enableGuiElements"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a01c5bfe66b5afb6ebd0cad2f1d79bc59"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enumerateFlagColors"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#aed948522cee4b9d2b01ad5124b6fc9cd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBatchCheckEnabledFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a6ba9576b8a3c4e5d87081c60f97ada86"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getCheckBoxValue"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ad9014f65f9f5b3245de89612324b6554"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getComboBoxValue"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a55f6a269468b3e28393b1b9cfe997545"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDisabledGuiElements"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#af03d8637109ce171daddf9e39b04974f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getEditFieldValue"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ae5ac02f34d4b7fded6ff4f52ad2dd4e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFilterAndSegmentationColorsFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#afb1ddc4cd77db954298eb3809285bf1f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a44794b98b6a6275b7b8885fe50698170"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLicencedModules"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a14957e53d91dea204a8d80c90fdcdc59"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLimitForNumberOfRanges"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#aeedb216bb72353d2c1cf38b7ba399690"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getServerProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ac4b11e699b8db44a4396372533161502"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isGuiElementEnabled"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ae1caf7075aa14eb63f7286af202f619a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isServerPropertyEnabled"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ad3b55e0c552e2374a6b21a639fe2cb39"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="linkCheckingEnabled"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a8ff7c6f02c639748ff04a0345e7d7d10"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ac6a8b5567d8f3ca0464f921aed849ba0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setCheckBoxValue"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#ad097e26df1408ab7ff369af76e953414"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setComboBoxValue"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a1bdc4db286c10bd4dbca6309155688a4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setEditFieldValue"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a2bccf3ad92e1908ac39e72f935c9485d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="useFilterAndSegmentationColors"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#a82f2e45d3f28d3348952557b7cf2b4d7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="useOneSessionPerCheck"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#aa94179ced0d031ef1f1f98704a2605d8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroBatchCheckHandler2"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroBatchCheckHandler2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#ac57caff06ee67831ccb4667e7fa18596"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroBatchCheckHandler2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a15a4e2d072f4dec4debf11962521e23c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="canCheckFile"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#af6d348acd838a4bc1abcb203a9534e52"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="canEmbedResult"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a25ca1ed392db4fc514b9200a25bb56e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getInitialDirectory"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#aa8451b3acb3c2915d1e3574118ac5e88"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="maxNumberOfOpenFiles"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a19c093360938a5a2bdc2cd9e350b3441"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onAfterBatchCheck"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a09e624c7ffc6c6bb731c460f8d70050d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onBeforeBatchCheck"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a7fedd953c698f803ded81d4a781d590c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onExtractText"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#ab5004bbf2c797d7f9ecd1bc34cdeab3b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onFileDone"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#ad94ef432a15b77a1525f183b5be32635"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onOpenFile"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a99e34c351947969d5a4421fb1febdc3c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onPrepareMarkup"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a0791dbda646acc943c43c5954dc52291"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onUpdateFile"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a30d85753bb3f4a1827467494bb20923b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="supportMarkup"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a01cfe00fa9543d137e497aebb1efe5ca"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="useSilentMode"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#a197f534b6daf353c8993f9b2a354b39b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroCheckResult2"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroCheckResult2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#aa7dd2e07046e383730a8aa2d6b72dee5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroCheckResult2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a12a18c157c208a77709d5fe65d47de4c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroCheckResult2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a43d7599c71e36afef69d90bff79efab9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="canDoNextOrPrev"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a310e3c63b014b070f16ce1dee21d832a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="correctRanges"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a1f1a86b805d9ca3ca841a21eac3fe069"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createRanges"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a17dd89ccfa93c034d09514e1f7335816"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getAnnotadedInputXmlUrl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a4ca39c19ed1780e717a003f9914f397a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getCheckError"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a6e93a7dccf9dc717a2b09f3bd3b5635a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getCheckStatus"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a615a2ae5dce657b7221246bc1966e8f6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDocumentScore"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a665aceaa295dc8eee5ac86258c41beb6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDocumentStatus"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#aec5325b8e0bd41c2a026163c4b1958e6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFilename"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a00a168d1144f73608cfa0383fc09c640"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFlagCount"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a939ee148f8565494230568eaaad80b59"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFlagInfoForRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a3a9f859b4ddad4f8c2e54304a90a5d5d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFlagTypeForRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a3c5ab1594977011adf3813a15e552e72"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getGuiMode"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a92a47bfef7e9c7ad18118c979389e723"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a644ffbbb4da89d40b62d1331ef1392df"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getProcessUnknownWords"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a17b38383b898ae4a1e20ef5dce645356"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getReportUrl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#adf27f91540585dfa8671144f8d5dca99"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSentencesCount"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a85ba4e7c497def33cf561ab8b83681b9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getWordsCount"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a8ce9de137a8c32b32c992871a23779af"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isLicenseError"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a19494e35ac5f511be66af932e63fb849"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onAllDone"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a55f1ee5e815c871fcf2730f570bc009f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onClickOnRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#ad080794a775326a13118ed76538604ae"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onClickOnRangeGetMenu"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a2131ec483ac58881652b9372cf9d51ed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onCursorOnRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a132ad1c6d0db031a25426509680df1aa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onNextFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#aaea6f6ba92b8d56c1ca021ca371131a3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onPrevFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a16c875d4d1cf000583e47abda02ba6b4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onRangeRecolored"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a96dfc4781cdb96ca0f16544e458793d8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onRangeRemoved"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#ac49a63badd0382742f44a71f4437ccd3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onTestMenuOnRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#adb17dacf620cdfe977e7bb1402e46054"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="reset"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a21aeb66f265935064a7dbec8d175987d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGuiMode"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#a5adb4a06d6990de59b44513f0c7ce54a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroDocSetup2"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroDocSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a5e1b0246fc0dc3d3630bda479ed9ade2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroDocSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#ad9dfe33de3d95328addc4e405766c09b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroDocSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a06d6d4831a8478d4c79c6209fc0fecac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineFilter"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a78fe2576eb76965045e10b2fd54f911a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineFilterSelection"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a900235bb1d94a99ea7756de0169b93c0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineSegmentation"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a9de1fcb9763d89f68d4baee9573a898f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enableCheckStatusInsert"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#acd28e8e8c86defa39a690f6a98ed843d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enableKeywordListInsert"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a5e9c7e0b6de60246d2af6273cdf43b69"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enableSEO"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a12677bfdae8836cfe3b5549dea242deb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getActiveFilterName"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#aada51f1649858b06dddf87b864f1c4a3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDocumentType"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a9518f4fb1c3251a66fb0ee4a02720c90"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFilterEmptyTokenSet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#ad3793de34db6ffe174f65114adf61db9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFilterExcludeTokenSet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#ad8c3d5da7d473c413bbcf7e44586adaa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFilterIncludeFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#ae41e703032350ccea60fffb786ed4dd5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFilterIncludeTokenSet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a01bdcb91d828bb72ad8f100c8921ddc9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFilterSelectionTokenSet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a82c9f68ed53dd3bdc623826785a1b524"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#afe4f72e65e0abdd1ddd4541b1c80454a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getKeywordList"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#ade32250e90436800d8e5297d74ae472b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSegmentationNoBreakTokenSet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a95c2ca8845affd98be80383b2c39a771"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSegmentationParentheticTokenSet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#aa06cf090739a74664c3ab76949130f93"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSegmentationSentenceBreakTokenSet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a7ac2e22cbed5a9dc2ceda0aa01c2dc0c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isCheckStatusInsertEnabled"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a9e1767099a2c85b7d76dacfb1351bb89"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isKeywordListInsertEnabled"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a9c4c3644160a08f827f752c41f0282af"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="localizeFilter"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a8aa3df7dd0e8d608474eb03b1dc82b81"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="localizeFilterSelection"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a0d7da41585ea6d804c08e9749d477863"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a055762d8063a756d80003d1e28f799e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDocumentName"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a0784e381b726d74fd4be5e6f77c634ee"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDocumentType"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a1e4bc6863af8acc90ea47973eddf7510"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDocumentTypeInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a4f56f18ff38c0056bafd999b0bbee777"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setupKeywordList"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a7c45d814f597bd89d92bd6ed3b0c9e74"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="useFilteIncludeOnlyIfChecked"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#a1c3ccb11e90a7d84d7717baf52054420"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroEventHandler2"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroEventHandler2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#aa237c0c96572bef94f5508e68509fbd0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroEventHandler2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#ae6015306443d654dd8879f1499c898ed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onAboutDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#a939c7e8452866e4c496606290b75875f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onCheck"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#a15fbee1899b5f7c58905a29381e14c11"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onCheckResult"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#a4261f645a7452d46e55ed654f8bf4746"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onCorrectionDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#a00a51881ee9679bfef361cfc3cac03c9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateRanges"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#ab3aee23f1992431a6a99fd92c296066e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onError"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#a40eb0d3f4b23bb6f3789f4ff009faa9f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onMessage"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#aea0977487fade314aae0bda8b147c466"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onPrepareCheck"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#a41551296c4ba6f5440182dd2cd438a9c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onResultDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#a58d38e2df0f5e410f69abe62c21ae0c1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="onSettingsDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html#aed28af3dd1f9fac8f212acc43a10db24"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroRangeHandler"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroRangeHandler"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a60152b246f898532b2b9fd410ace3d3a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroRangeHandler"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a99eb852cf9b11a902c6dbba4ab015323"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#ade5f4d349878e8798b53ffc421416601"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createRangesBegin"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a56ead3cbace3694beebdbafe9e8397a4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createRangesDone"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a06f06ed437adaa5feff182b699f8634d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getNextRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a1f3cde345852f26b02e9c4a6c46fdd59"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPrevRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a1e738e7208452e1051168a4fa6fbd261"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getRangeAfterCaret"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#ad3cb215e5dc4a6b6bceca11df875e595"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getRangeAtCaret"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#aa6e84f51ba309132b3f5f9b538d28b76"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getRangeBeforeCaret"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a69b38bad65f2243fa0d6b28ce6db8e7f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="guiModeChanged"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#ad5d5d57509b7a4628fa5c5c422f60a5f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="invalidateRangeInformation"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a79b546eab2f93783bd9331d7aa7f2c4d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="recolorRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#adc7704e5cd43f38d874015860f08f932"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="refreshScreen"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#ab9664413a7cad1635c9b012b8bbbcea3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="removeRange"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a36dce668a75c0133268c7dc408f618cf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="replaceAndRemoveRanges"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a03ce478dbc26b06e8b96f51c93ac728b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="replaceAndRemoveRanges"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a4b46041f24b21f0a0eda080a75838c1a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setCaret"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#a775ef7a29452ff8fa3b525005e8a97d0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setStatusMessage"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#af382df4e080c2a92a1ad66c23bd12ae9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="supportsComplexReplacement"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html#aedc72193bd0227c6af3e2cbf1777c417"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroRangeKeySet"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroRangeKeySet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#aecf1157e239abe75c8b26a1a316bec3d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAcroRangeKeySet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#ae45e32b58ebd71ed45137e3226cb1c90"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroRangeKeySet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#aefae8f794d1d02a92e93109f4cd5240b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clear"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#affc0ceda7319c43804cbabd774a63da8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="contain"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#adc621f3af78a62e47f2a117cac8c04a8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#a5839407afbb78ddb606f8360115580f7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="insert"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#a62f3361b147a73f8d6bdf039e1d79734"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#af9fad10657c1969e125965eee70e6cf2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator[]"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#ad2f9ca853a3c4f6cfbf3b1dc8e816315"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="remove"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#aaefd79b0ac7fd5e14d68a1791b5f401e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="remove"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#ac8126da40c615772c814c5ea06543e65"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#a57e332793928efad3b20eb02a632a823"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAttributeSet"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAttributeSet"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#af327fa86842691963249b4d94d46d719"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CAttributeSet"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a64551f93c93cbe2fee5a973223a57edf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAttributeSet"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#aa5a52e2cfb14b5ebdd49397f6b1a30c7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clear"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a0ccc0a30196cea96ec2812c4e0890a65"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="contain"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#aa59682c3dfceb6b9f1b2d4400db72d5c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a090d33b8cc74a1c237d8573aefdd85cd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="insert"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#adc98c9a7daeaa2bb9111975deef3b523"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a1454fbd09810bdccc2d78b95d2a3c228"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a6c280100419b1b78a0454892c81d4c5f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="remove"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a29f5f9a48c734234f796ceaefd39d6ed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="remove"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a79c2cc1662d6bd12d1ea6cf3560ab492"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a478c0dd663217442c3c8c55875204b1e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="value"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a7937a7bf8368746374d592a2219564d0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="value"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#a90ce55502108eb64112184dfc6ac6f4b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CBaseBlock"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CBaseBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a42577614a33eda353c02007e799cacb8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CBaseBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a5d3f154d1bcb68e67685904bb2bcb5b1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="asInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a27328e144a9b0a09f5d577e4a089c229"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="asInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a34448af50e2e92d22edb13f175a9494c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="asTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a31c1ec8bfc40dfb64c4230203c91709e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="asTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#ad65858793cedb8538b8a095af851eb74"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clone"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#ad8887b2d16937f9fa35787824b78db6a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="extract"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#ac3f0027c28fbcc48b991572ec471a9f6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a4bd29392d688159a5ac559fe95eda42a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a4ca4752643f54e89ec740897ebda7a1e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBreakLevel"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a07c641ffb81b4000abe400fe2c12fd64"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getContext"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a299a82d5b9a2b1dbe88cc4efac287079"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getExcludeFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a10c8e049881561c6351bb90d774f27d9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isEmptyBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a1f4ff9d0cd9e1fe9624ef31096b05c5c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isEqual"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#ac76e47196006ec6e9431ab9d2d954f9e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isEqual"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a1325898e97104d6aa8e4905bc83ece78"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isImageBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a7161682ab7871f36994dbaa7ac4d25b6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isNull"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a8fc2322275778eb9cd89c0e31db6f762"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#ad68745836770e916add0c2c5f0e13782"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isTextOrInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#ac0f3e049fa0e0a83f5f943597c9fa2f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="offsetEnd"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a5e1ed3ce5311d5eaeb67b04b4a9a0252"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="offsetStart"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#accfd729b9263c7e30995962d0131751e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="saveXML"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#a5d09c9c4a060ce9affd06dca96ad6093"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBreakLevel"><param name="Local" value="class_acro_s_d_k_1_1_c_base_block.html#abcdc78434f5c9480d3814baee704704d"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CContext"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContext"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#ae229e7521af21ccafe09aa4db9230c47"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContext"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#a438601761bea2058255beafee64d60cc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CContext"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#a5a9c381689dd52188f7c15cd7be24b36"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContext"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#a8759b62755b6700e1eb7b4b9b03a5170"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="add"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#ae75e7b5cdc310a1c1c9da0ebe41ec029"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clone"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#aed20089134f9e0615d2ea81ab39da0a3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#a05fcf1c884ee988b1ba21ae063de7986"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getName"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#a4e9d2ca56960f16377122fad8d66ef4c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getPriority"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#a6b2b8e61003defb76e0f7baf66ca7692"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isEqual"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#a90670c05fb67f1f2c486d7166245943e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#aae5920b3205895be2ab68f39f7bfde5a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html#a2df08df24f908ed2850068ad84cfd5d8"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CContextMenuEntry"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContextMenuEntry"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#ab2466b3c48d8ff7d8172194aabf37c80"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CContextMenuEntry"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#a7eda7ad05306b4f9f880072c4fea6260"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContextMenuEntry"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#a7e17e17e303139e765b095661d69b4c5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="doAction"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#ada3578fe5904e95a5d458861ea7fed1e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getEntryColor"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#aa53509a812b34eccf52af2ac5f394b7a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getEntryIndent"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#a975d9d56db18d4d0231e03dde5692b92"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getEntryString"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#aa66dbb807f9ae877c8ab48abf663eb8a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#afa37c4c6e4d8b88c728113da90508703"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getName"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#ae36bea13ab6a983c40953dd188ec5630"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isEntryBold"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#ab0ea48aaddeb898daca96eed6151a140"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isEntryChecked"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#aae3c7c3d7c781c5503b430dd8cd5a123"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isEntryEnabled"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#a18fd3fd5eca15b133e37d4d8dcfd46ec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isFeedbackAction"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#aed1bc2a8fc7a97bfbdd106f21b33e1fa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html#a28848ae08db811bc9e384e431bae1d34"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CContextMenuEntryList"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContextMenuEntryList"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html#a72fb12619b4ba8d8d15ec1adddb0fe42"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CContextMenuEntryList"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html#ab45801d06cf62137436935221d835a86"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CContextMenuEntryList"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html#a12ac5443d4ccc3b9bacf9e8cdfd5af25"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html#a6482a72850b9e7d2fba5c4b2949f136f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html#a238d42230df687324f56c053e9f72562"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator[]"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html#ae09fe4a946f93521dbb6fda73fa6f619"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html#a8cb6c67ccacbbe8e97564b0560007dde"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CError"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CError"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#ad8677447c01c7773decac16ca68810f1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CError"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a7f255616e61d534280c3d9964fd31888"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CError"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a80edd9a9e73a38574c7557e9f58e21b2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clear"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a994554ee2ce2b6f421e9fe8f1aeef57b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getErrorCode"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a6809c56bb2c0ab93e001610649581118"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getErrorDetail"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a6400efccbeb04aba7bd7ea776fd85e8b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a9f7d1d5264be086aaf25e13d36237918"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLocErrorMessage"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a7f0a8ad7a31680dce2aba18644895e96"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSource"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a3d82e1591e7513f05b639d10a624bdb2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isCanceled"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a08308d252be1e0c2ed4ebe5182c807dc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isError"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a62c94fddbc54f2d8dc94148aea9229be"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isNoError"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#af7f105fc992b7cafa9f02bba0db9a01e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a8f7f2728ada675570fca4803f1203d82"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showErrorMessage"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a7d3d186c50f42df23e1825f08853dcd7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showErrorQuery"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#a3fa4f4af31cf131f2347d535fd935cd7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CFormat"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a22895885d7e57f7a263bfa8f9c58d778"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a1d8574f87e48782d2d3c8232509f1411"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#aebebbbe443187876f17bc51240f570cd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#ab97e06bf48fb249d20c24df7c714ce4b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clone"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#ae4b4d58316bf9d61c25bcc77da9e07cc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBackColor"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a7af7f761a0b6c0c9d5eb4d9337e42c9a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBoldFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a8517d055e630246796ffb7bd1a956886"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFontColor"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a94422b56a2dcf8704635174b727185e6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFontName"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#ad1374c6d91d1912bf2b194fcf1a38933"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFontSize"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a0e289822780ac8ab4c179b39bda9abd0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#ac27c22baaaad183bf385e1660f626582"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getItalicFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a970d7e920d0ef498a56f177d9fea52f9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getKey"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#ab6908ec7054ef31fabf3837fad901836"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getName"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#ab584ea1082928c497c174213f9aae38d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSubScriptFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#af48299a1c6559820fc190904165b4bcd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSuperScriptFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a6279116771c668a6408f5109ed105186"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getUnderlineFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#aac571b57c23a10db317d8baae74dd0a6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isEqual"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#ac433f168b7c46732480b062bfb37085d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a4e184b13b00e0e76e6ad98afcea3cd5f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBackColor"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#aa79661e3082f869ec2b74bcd182dbd29"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBoldFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a0dfb2b5948e0e8bfc1e403291b53d412"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFontColor"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#aa64234e8701007dd42533631328a59ec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFontName"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a519e0062c9f259cccffde53ea6e832be"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFontSize"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#aa9b29302c396f998c6eea7963ab3046e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setItalicFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#ad582b0cbba20b715d7f645e975e0e13e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setName"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#aeea450adfb304fa0239b37437aa50608"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setSubScriptFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a1c97d1bfc8926b24cb5a6de79dd13e74"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setSuperScriptFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a26e66c6ac7b13c81da007f19974bb3ed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setUnderlineFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a1866437b86d98ebd5caa728c6da2f64b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CImplTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html#a903dee914577dc1219d8dc6dc6ac5335"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CInfoBlock"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#aec5b23766523f4aeb9dcee3497b30e64"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a98836f1e4108fa3536794f1418f1304e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a53e8617d9c46ddf0f3000618874a12da"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a876b3667219a444a1c81719aef63b011"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clone"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a18517792ce0887f4021d05fcda062d6d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="extract"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a03baabe56a3e8494d2c44add04178747"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBreakLevel"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a19d1996cd829f9cccfad9d5eb2dd3008"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getContext"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#afc6ce65652a775cc0f4c0a8d5f1ab885"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getData"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a0eaf89e975c1c5de57d3f56ba89f7694"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getExcludeFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a6130ad588da016e20da4a5d3e5a26727"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getIcon"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a47454462c634f69aff0075c3b0f5b10e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a2436c68bd61cd0a7112b3855a299a814"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a3519a5d2fafb4764162045443e3fe520"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getKey"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a73ffed822a6158bad6b9fe91c26d46cb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getType"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#aaee9ab38841e6feb5ecbd07e276abec0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getVisibleFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a5d59e8d8e1e67520f62c532ab703d950"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="offsetEnd"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a0ff757b4c6545cc8a9077ed456eaac82"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="offsetStart"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a9f3f0df6d0abc51803798ec9275f8f4e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a78ab78e303c41a68a9e1243b06575449"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="saveXML"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ac943ba85e2f609b7ba895ad566225e70"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBreakLevel"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ac62f60571e8ed5a6ee261a4b79d23f14"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setContext"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a56345c5cadc588c78e1d26b56546462f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setData"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a7c95c6c0ba96cbf55fa19d6366763926"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setExcludeFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ac6390df57498514e4156123accafa9fe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setIcon"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ab530dabc2dcd650b74fb89e6647a497a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ac086dd5421169d9b922201c14b7d4de8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setType"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ae7864aef1c81504b3e4544d0b281ca76"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setVisibleFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ad164307f3e7f01c84220ae4bcfe26936"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TYPE_BEGIN_TAG"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#acb8634a0b7e6647f321c241cd45f82f8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TYPE_EMPTY_ELEMENT"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a814cc477fa3f4dcb22267a0b5c7096a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TYPE_END_TAG"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ad01b0c6e54e7f05ce9d996d9f798c49d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TYPE_IMAGE"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#a29c841df7595b429a924f4245d66a0a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TYPE_REFERENZ"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html#ad1c57e0dedd1233418338ce4f0b50897"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CNullBlock"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CNullBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#a00a3b1ad43764028ee8d9f4180d9834a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CNullBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#a18c41087d04db2496d0af36fdab188d8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CNullBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#aebf49a1c6405910090d3ccd65fe67173"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clone"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#a86c62aa43dfd49e479fae5b7b8566338"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="extract"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#ae2ad971281b57dd17e6200f105363734"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBreakLevel"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#a645062070caba4578bea07dc43d659cf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getContext"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#aac2f15d5d8fa038be4beb685a1c0b7a3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getExcludeFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#a95a29d65a40a6d8fc9cb49a1ee0c04e6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="offsetEnd"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#a2247fb683eef781234a71a5be9695cf9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="offsetStart"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#aefb9cb1e86745de0c1c05bbf85327595"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#a77180b80b036795c3f10eb9d94a88be5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="saveXML"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#ad156fdf0da72e1897574043bb81047f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBreakLevel"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html#a48fb7424905ca103cc4f3f31f63d45a7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CProgressDialog"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CProgressDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#a03b75fab2575034f4553dccddd8e8b91"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CProgressDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#a168ff8e74fdb4bd70b25c0d346969e5b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addTask"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#ab670949c5ef00d5e7cfc9a483f803850"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="close"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#abd960e37e0bcc72f5777be131c2ff5bf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="create"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#af91acab0400c2e06728cbd26e0625d2c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDefaultWeight"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#af47bfc26286ff274780a67c395562eda"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#a65eb44c09fe2d3f62d6661caee1502b2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hide"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#a5c3b16f9aa10f673b5b1623ef940dbf1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isCanceled"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#a2daa3134f38336f088ac5fc60ecdc30b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isVisible"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#aab4414e0fb3910585094f9d5ef6c372f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBatchProgress"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#ae3892e2d2c7e8ae455852d8f98b69689"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setTaskProgress"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#af6d94814db101ca9369cb312e2849c86"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="show"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#a89ca0aa650e016658d4144e681fd1f01"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CStandardCommonResource"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CStandardCommonResource"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html#a57dc7758cbd2883123024bb6c04d2062"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CStandardCommonResource"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html#ae4e294afd614f5e80af43aecf2605b12"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getIcon"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html#a84240632e02da3aa632864429ebd021a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html#a7381530e7104225de52395f393543989"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getInternalName"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html#a08010cb8aa7e61aefc4e0b333bdcacd0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getLocalizedName"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html#af087ee12adda5586844e8991206a979e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getToolTip"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html#ab430b5efe8d9ccf7b59dec54289d1589"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CTextBlock"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CorrelationType"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a5f315c9e2bb25aa717e08063ee354c8a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a18f11a1c977b48f954d2517eebebc347"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#aa87319222d30a737494d157eb6e1728b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a8bebef82620a803826f5d94c0ae248b8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a7f9f2af02074bd45f8f6148b1991e0f7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addText"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a1b37fdc67bf407a4ffc34539079103ce"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clone"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#ac30b6c473c2677646dd3adecb1b15f0b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="extract"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#ac3aba518149776bce87704bb7b0861c1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getBreakLevel"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a42f13e845ddafb265fb44de144989df5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getContext"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#af9b874aa0a05d03d95539e14bc425c06"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getCorrelation"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#abef30434b2a66b7f7cedd90a68ba25b1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getExcludeFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#acce125b4cf069cca94a688d6264f4849"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a08374770cf2c7df55f61826ae235bdc3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a9b37f3f6b85daf8a3ddb453b165402c0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getKey"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a734f3e4914be6d82c80d9ebd926da773"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getModifiedFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a7164dbf027bcf17084d7784340072b82"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getReadOnlyFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a50cc6299f3066dc2a6e5adbc802ea1db"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getSortIndex"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a634a0c9db67323c30ab76eccd224c850"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getText"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a76eceac4d1db5a3e51ea84321baa006f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getTextLength"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a478c7a320e06b32a4287523001c88dae"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getWrittenBackFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#ace61b37f827032acc9638917cb6edeb1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="offsetEnd"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a7edea40899479114d1254969b9bf66a8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="offsetStart"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a1fc9cb133788037d172224187b8da87b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a4011d5fb7abade9694a469613c55858a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="replaceText"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a5f8db33ce6863e26ad88d8d9d800cd39"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="saveXML"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a3efc8858b0c0494d44b3a3da2b584a6b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setBreakLevel"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a8f1db893e53af73a39b99fe472da1e33"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setContext"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a746305a9fc04c0c8457e8e5834c43c73"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setCorrelation"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#af2d4db5eeb5b724e3265fef97bca2e78"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setExcludeFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a1ed82e9f73d41643b1272766f92a327d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a494a064a3d620d8fd3adeb529a48304f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setModifiedFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#ab665a5aa9a95ec1170b0c5de8019815b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setReadOnlyFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a515f8a2bf914a01bf9a04c2aea4945b4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setSortIndex"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a3dec1ec7b391f82763f8e1b5bbcfe4eb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setText"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#a03922443e0b1a0b702c858112a32b4fd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setWrittenBackFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html#af33183bc5f74e73311815608e7e18539"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CTextDoc"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CTextDoc"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#ab42842a0fededc54c0860193379fafe1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CTextDoc"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a9194e37594efdfa147f8818591f03721"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CTextDoc"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a00965c4168f49d7c7373493a898a5280"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="add"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#acbbe904f27badcfa073094124eafa10b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addResultMessage"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a05c4b711513c384248ca576396c62f8c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clear"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#adb1cb5b4de32075446165f29acda66a9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clone"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a9ec187ceb19aa813e3856563e60c679f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="extractText"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#ac094f2bc035fec1aefd065fe0b897bb8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getCustomProperties"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a9a102061bfd2a3ba9e5304b602dfa783"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getDocumentScope"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a8b75684cce9d46bf8da339fe5ce57abb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFileAuthor"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#ab3a164914424c6f38ffaeabbabe8abc5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFileFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a7ef7523f598e8657f726b5c6826cb3dc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getFileName"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a846ad1006436822e153635f34482379a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a0bdc5ba225f8bf7100cf4c1ef8d41743"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getModifiedFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#afde486cf5c9962a3759081b5c54fbd85"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getServerSideXmlExtraction"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#aa63dcbdf86f82aec9dc2ab4c9b3ec694"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getTotalDocumentFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a41002987ef5b540acaa0000c24b1cece"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a4e3f990a00fec40de89d77fa1365c165"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator[]"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#aa844d5bb1f0a249df0838facaf54bd41"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator[]"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a96d18ef711e152e4c1f5836b230d419b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="reduceToOriginalBlocks"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a9517d89381d1e32ba42b8d6597112400"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="replaceText"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a39a9ca53b1c41b53c039833268aa6104"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="saveXML"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a3e140b624fb9d283eca9ab25cc19ed57"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDocumentProperty"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a074fda4223591b8e5cd07a7950d5a226"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDocumentScope"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a9062866c1642c997a8ab1d0a320b193d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFileAuthor"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#ad82a5f42b79460e6ea411d880ffaf45d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFileFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#aa4b70e6448c70beb8f94572da212baa7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFileName"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a2b47a984ca6ff17573a8cfb3d4881e6c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setServerSideXmlExtraction"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a0752261cb9c282324fae1ea892819e2c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setTotalDocumentFlag"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#aedbf71bbe866ae28a450e77cf3c4c1f9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#adbb3760e915aa1ae9783a2f4a90dcccc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="validSortingIndex"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html#a57819e3d50f31746c0adc3aee61f7ea1"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CWStrBuf"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrBuf"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#aed06c2070b689f470720bcbbe0a647e6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CWStrBuf"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a71404998eccc5bb8896a93ebc47b6220"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrBuf"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a6ec30d46ba2538bea8dcca34dc0ac637"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="append"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a88d800d483e0296b4391b27552c29ae6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clear"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a14e6fefe60d5c49fc0dd2373a30c0999"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="get"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a49d4950b899d84bf5f3a6ce6b15397d5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a83109db3687b013a77a36d8adbc1ebf5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="length"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#aef6a7c5f31c3c21b72d5882708612b57"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator const wchar_t *"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a2956a0aa038a0b3c332f67d6aac59512"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator+="><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a5a5b56fc75c4fc97354b0fc1cc9af3c5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator<"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a5b47424950f23ea8ccd66f8631ce166b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a4a3ebdb056e9102f5272207bc437d5bb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="set"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a50bacce0745dabc76c83e299e8dbf047"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CBaseBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#a27edb7670949054f5255eb0cc620013f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#ad563de8cd3d944736e5e8952658d52b5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html#adc60c51a0853ac6f16e4c6bcf74b99e8"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CWStrSet"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrSet"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#a7a9436c05c499506022dd0f31f150bb2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CWStrSet"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#a880e9fddb8f00274845d08c5378077b1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrSet"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#ac3d98d73aa5628fd8e40052017eb4e48"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clear"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#aefa61595e7c6d854751cca4e5782d2e8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="contain"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#aa44be1ddb03a5655116ed6fa65511539"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getImpl"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#acfa7d1cdc363dcff8530b7d187ec0a6b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="insert"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#a4a99776eb574d35688a76628fee6abf6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator="><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#a8d16b8b2fa87c5fd6e1a42cbf1274b98"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator[]"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#a11f80b868cf086ee8e18b48f2b8f201f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="remove"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#aed758375e7dd45d76338c8891d21c54f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="remove"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#a8e209048dc14a7418172c178317a98e3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#a3cf1fcb2c6b8f940babb2001095dd1be"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html#add2490f74c7677b9463cb4e3177e58b7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::GlobalHeapAllocator"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GlobalHeapAllocator"><param name="Local" value="class_acro_s_d_k_1_1_global_heap_allocator.html#addf520e785bfff146fe3870aa268275a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GlobalHeapAllocator"><param name="Local" value="class_acro_s_d_k_1_1_global_heap_allocator.html#a675535bd6d646d9ba5be24ce4058bc67"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="global_allocate"><param name="Local" value="class_acro_s_d_k_1_1_global_heap_allocator.html#a9db35b5683e73137b89bf6482f82a3ef"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="global_deallocate"><param name="Local" value="class_acro_s_d_k_1_1_global_heap_allocator.html#abb729057c4865e2cf57bb061cf50f692"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::AcroAllocator< T >::rebind< U >"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="other"><param name="Local" value="struct_acro_s_d_k_1_1_acro_allocator_1_1rebind.html#acbb0b7f20d4e0c9302d6c78a11fd66df"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="ImageNumber" value="1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroTypeFactory< T1, T2, T3 >"><param name="Local" value="struct_acro_type_factory.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroAPI2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_a_p_i2.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroAppInfo"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_info.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroAppSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_app_setup2.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroBatchCheckHandler2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_batch_check_handler2.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroCheckResult2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_check_result2.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroDocSetup2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_doc_setup2.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroEventHandler2"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_event_handler2.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroRangeHandler"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_handler.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAcroRangeKeySet"><param name="Local" value="class_acro_s_d_k_1_1_c_acro_range_key_set.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CAttributeSet"><param name="Local" value="class_acro_s_d_k_1_1_c_attribute_set.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CBaseBlock"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CInfoBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_info_block.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CNullBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_null_block.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CTextBlock"><param name="Local" value="class_acro_s_d_k_1_1_c_text_block.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CContext"><param name="Local" value="class_acro_s_d_k_1_1_c_context.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CContextMenuEntry"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CContextMenuEntryList"><param name="Local" value="class_acro_s_d_k_1_1_c_context_menu_entry_list.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CError"><param name="Local" value="class_acro_s_d_k_1_1_c_error.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CFormat"><param name="Local" value="class_acro_s_d_k_1_1_c_format.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CProgressDialog"><param name="Local" value="class_acro_s_d_k_1_1_c_progress_dialog.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CStandardCommonResource"><param name="Local" value="class_acro_s_d_k_1_1_c_standard_common_resource.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CTextDoc"><param name="Local" value="class_acro_s_d_k_1_1_c_text_doc.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CWStrBuf"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_buf.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::CWStrSet"><param name="Local" value="class_acro_s_d_k_1_1_c_w_str_set.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::GlobalHeapAllocator"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::AcroAllocator< T >"><param name="Local" value="class_acro_s_d_k_1_1_acro_allocator.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AcroSDK::AcroAllocator< T >::rebind< U >"><param name="Local" value="struct_acro_s_d_k_1_1_acro_allocator_1_1rebind.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="functions_0x62.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="functions_0x63.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="d"><param name="Local" value="functions_0x64.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="e"><param name="Local" value="functions_0x65.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="functions_0x66.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="functions_0x67.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="h"><param name="Local" value="functions_0x68.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="functions_0x69.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="l"><param name="Local" value="functions_0x6c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="functions_0x6d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="n"><param name="Local" value="functions_0x6e.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="o"><param name="Local" value="functions_0x6f.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="functions_0x70.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="functions_0x72.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="s"><param name="Local" value="functions_0x73.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="t"><param name="Local" value="functions_0x74.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="functions_0x75.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="functions_0x76.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~"><param name="Local" value="functions_0x7e.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="functions_func_0x62.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="functions_func_0x63.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="d"><param name="Local" value="functions_func_0x64.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="e"><param name="Local" value="functions_func_0x65.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="functions_func_0x66.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="functions_func_0x67.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="h"><param name="Local" value="functions_func_0x68.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="functions_func_0x69.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="l"><param name="Local" value="functions_func_0x6c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="functions_func_0x6d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="n"><param name="Local" value="functions_func_0x6e.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="o"><param name="Local" value="functions_func_0x6f.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="functions_func_0x70.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="functions_func_0x72.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="s"><param name="Local" value="functions_func_0x73.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="t"><param name="Local" value="functions_func_0x74.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="functions_func_0x75.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="functions_func_0x76.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~"><param name="Local" value="functions_func_0x7e.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Typedefs"><param name="Local" value="functions_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="functions_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerator"><param name="Local" value="functions_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Related Functions"><param name="Local" value="functions_rela.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cpp/AcroAllocator.h"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ACRO_SDK_API"><param name="Local" value="_acro_allocator_8h.html#a899a75fdabf863faef4e2f4aa5408448"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cpp/AcroInterface.h"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ACRO_SDK_API"><param name="Local" value="_acro_interface_8h.html#a899a75fdabf863faef4e2f4aa5408448"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TAcroRangeKey"><param name="Local" value="namespace_acro_s_d_k.html#a4248b7a7f1d5460e95e75eb5278873d6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TGuiElementSet"><param name="Local" value="namespace_acro_s_d_k.html#af32d3d1ec65998927cdb1e9db0ebd14e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TMenuCommandHandler"><param name="Local" value="namespace_acro_s_d_k.html#a68f9bde969a6ff95e4a9902f1c54ff64"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TOnSelectTextBlock"><param name="Local" value="namespace_acro_s_d_k.html#a1d26897b91a00f2810d45b30ee5337d3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TOnSelectTextBlockEx"><param name="Local" value="namespace_acro_s_d_k.html#acaac44ea15a556336e1560202e3b5ed4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TProgressTaskId"><param name="Local" value="namespace_acro_s_d_k.html#a3ddceb20617b6eea1f4eb033c19b202c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TTestCommandHandler"><param name="Local" value="namespace_acro_s_d_k.html#a6e89a124e29a10ddee0fb996b5309e91"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TGuiElement"><param name="Local" value="namespace_acro_s_d_k.html#a2cfda89f137771e654b64fb6ba1ab471"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TGuiModeType"><param name="Local" value="namespace_acro_s_d_k.html#af7c63ebbaf50daca1568e7d226b7a98f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TLogLevel"><param name="Local" value="namespace_acro_s_d_k.html#ab00dfca5fdaedde6ca24bb93b5cd100a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TMenuCommand"><param name="Local" value="namespace_acro_s_d_k.html#aadf2cce4072b7e8b29ee22a307679364"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TResultFlagType"><param name="Local" value="namespace_acro_s_d_k.html#ad235e8a834c2fc3a9d7c8a97f0e78156"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TSubstitutionMode"><param name="Local" value="namespace_acro_s_d_k.html#a9ca3c44eb2ef247270ac6780f1da9b23"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TTestCommand"><param name="Local" value="namespace_acro_s_d_k.html#aa2a3da8ceae36fbc07ebcfc8cea73f73"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE__DOCTYPE_NAME"><param name="Local" value="namespace_acro_s_d_k.html#a39d212e4107f73f4a19e87c55b0c3ddd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE__TEMPLATE_NAME"><param name="Local" value="namespace_acro_s_d_k.html#a6edc1b540ba58d2a98337ca3641fa259"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE_XML__PUBLIC_ID"><param name="Local" value="namespace_acro_s_d_k.html#a11afc1205592447c775a95cf141529b2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE_XML__ROOT_NAME"><param name="Local" value="namespace_acro_s_d_k.html#a7f9bbadd2c4ec806b0becbf83f443cc0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE_XML__SCHEMA_ID"><param name="Local" value="namespace_acro_s_d_k.html#af0b224ef74e1664181f34b83c398be08"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DOC_TYPE_XML__SYSTEM_ID"><param name="Local" value="namespace_acro_s_d_k.html#a332151ea0205d6aa5cdba54168973f2d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GUIESet_All"><param name="Local" value="namespace_acro_s_d_k.html#afde4a8eebe2f7e3f390bcc128d44ccf8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GUIESet_SilentMode"><param name="Local" value="namespace_acro_s_d_k.html#a6d653631e19b09daa855f3a5c2b1de2f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="INVALID_RANGE_KEY"><param name="Local" value="namespace_acro_s_d_k.html#a2f3410c5492032a33f84c4a274f63acf"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cpp/AcroTypeFactory.h"><param name="Local" value="_acro_type_factory_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cpp/AcroTypes.h"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ACRO_SDK_API"><param name="Local" value="_acro_types_8h.html#a899a75fdabf863faef4e2f4aa5408448"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWString"><param name="Local" value="namespace_acro_s_d_k.html#a77ca82a4191c570998881820c952f2e8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrVec"><param name="Local" value="namespace_acro_s_d_k.html#a993025911b29db3cd2f6704b3446bd09"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CWStrVecPos"><param name="Local" value="namespace_acro_s_d_k.html#ab5d10aa6a1bc223a30e29099ed142144"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TErrorCode"><param name="Local" value="namespace_acro_s_d_k.html#a02b6459af3cb9cc99d2284cb6dea6e47"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TFormatKey"><param name="Local" value="namespace_acro_s_d_k.html#a8dda8d5ae45433a761b28178d3320586"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TInfoBlockKey"><param name="Local" value="namespace_acro_s_d_k.html#a56a9c0df0806afd6970924d08de1dd7b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TTextBlockKey"><param name="Local" value="namespace_acro_s_d_k.html#a5fe5e8cc95d054a33bfbe4dbcbcddb1a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TTextBlockSortIndex"><param name="Local" value="namespace_acro_s_d_k.html#a6ba6ea12750fbcdd3030cfb17bbeeb22"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="eStandardCommonResources"><param name="Local" value="namespace_acro_s_d_k.html#a5fefda883a7fd8007f3f3ec02a9b0748"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TBreakLevel"><param name="Local" value="namespace_acro_s_d_k.html#a2e7d95fa5c9299cf17d20cc0702412b5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DUMMY_FORMAT_KEY"><param name="Local" value="namespace_acro_s_d_k.html#a6a55995110dca883af05676fc02f3d52"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NullBlock"><param name="Local" value="namespace_acro_s_d_k.html#a4e6b6f92f2243f7d5d236460f3a90b54"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NullContext"><param name="Local" value="namespace_acro_s_d_k.html#aa8e5a46d9572d8ef9c5568111b7fedc0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NullFormat"><param name="Local" value="namespace_acro_s_d_k.html#a005269c21cfc37f29881439e3ecb3fa7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File Members"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Defines"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
