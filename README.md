@@ -89,6 +89,8 @@ To see the Acrolinx Java SDK in action, execute the file `demo-projects/startabl
 
 
 ## Acrolinx Windows SDK
+### [Getting Started with Acrolinx Windows SDK](https://cdn.rawgit.com/acrolinx/classic-edition-sdks/2d2bad1b/windows-sdk/html/index.html)
+
 
 ## How do I get the SDKs?
 
