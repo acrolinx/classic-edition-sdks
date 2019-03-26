@@ -21,7 +21,7 @@ Acrolinx offers different other SDKs, and examples for developing integrations.
 
 Before you start developing your own integration, you might benefit from looking into:
 
-* [Getting Started with Custom Integrations](https://support.acrolinx.com/hc/en-us/articles/205687652-Getting-Started-with-Custom-Integrations),
+* [Getting Started with Custom Integrations](https://docs.acrolinx.com/customintegrations),
 * the [Guidance for the Development of Acrolinx Integrations](https://github.com/acrolinx/acrolinx-coding-guidance),
 * the [Acrolinx SDKs](https://github.com/acrolinx?q=sdk), and
 * the [Acrolinx Demo Projects](https://github.com/acrolinx?q=demo).
@@ -88,14 +88,12 @@ Chances are we're working on a Sidebar SDK in the language you want to use...
 
 ### Develop an Embedded Integration
 
-The standalone [Content Analyzer](https://support.acrolinx.com/hc/en-us/articles/211749485)
+The standalone [Content Analyzer](https://docs.acrolinx.com/ca/latest/en)
 might already sufficiently cover your use case for analyzing your content from an entire folder structure or website.
 
-To run Acrolinx repeatedly as an automated task, you can use the [Command-Line Checker](https://support.acrolinx.com/hc/en-us/articles/203943742).
-The [Acrolinx Scorecard Analyzer project](https://github.com/acrolinx/acrolinx-scale#how-to-use-the-acrolinx-command-line-checker-to-perform-a-check)
-provides a script-based example of using the Command-Line Checker.
+To run Acrolinx repeatedly as an automated task, you can use the [Acrolinx Command Line Interface](https://docs.acrolinx.com/cli/latest/en).
 
-You can automatically run the Command-Line Checker. For example,
+You can automatically run the Command Line Interface. For example,
 in a post-commit-hook of your source code repository. That could be GIT, started by a continuous integration system like Jenkins,
 or run it by a task scheduler like cron or the Windows Task Scheduler.
 
