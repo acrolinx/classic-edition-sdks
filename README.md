@@ -1,4 +1,4 @@
-# Acrolinx Classic Edition SDKs
+# DEPRECATED Acrolinx Classic Integration SDKs
 
 The following instructions and sample code will help you integrate [Acrolinx](https://www.acrolinx.com/)
 in Java, .NET, or C++ applications.
@@ -6,8 +6,10 @@ The SDKs take care of most of the functionality for you, so you can develop inte
 
 ## New Acrolinx Platform API
 
-Acrolinx develops a new [Platform API](https://github.com/acrolinx/platform-api).
-If you start a new project, you might want to use the new API instead of the classic.
+Don't build new projects based on the Classic API. The Classic API is sun set. See: [Product Sunset Policy](https://docs.acrolinx.com/coreplatform/latest/en/compatibility/product-sunset-policy).
+This documentation is only for maintaining existing projects.
+Acrolinx released a new [Platform API](https://github.com/acrolinx/platform-api) with version 2018.12.
+Several SDKs automated as well as Sidebar SDKs are available on GitHub.
 
 ## Prerequisites
 
@@ -40,11 +42,11 @@ For example, you might want to build an Acrolinx Integration for a desktop XML e
 You can integrate Acrolinx in a server application to enable (automated) batch checking over a set of documents.
 For example, you might integrate Acrolinx in your CMS to check content as an automated workflow step.
 
-## Difference Between Sidebar and Classic Edition
+## Difference Between Sidebar and Classic Integration
 
 Acrolinx Integrations now come in [two different editions](https://support.acrolinx.com/hc/en-us/articles/208549775).
 
-The classic edition is the predecessor to the Sidebar. With a classic edition integration,
+The Classic Integration is the predecessor to the Sidebar. With a Classic Integration integration,
 writers can check their content. They can edit with the help of a shortcut menu that appears when they click colored issues.
 
 The Sidebar is the newest edition in the Acrolinx Integration family.
